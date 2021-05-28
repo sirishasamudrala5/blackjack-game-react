@@ -1,0 +1,8 @@
+
+[
+  {"email":"tony.stark@marvel.com", "password":"edward", "bankRoll":"1500", "username": "Iron Man", "avatar":"..."},
+  {"email":"donald.blake@marvel.com", "password":"hammer", "bankRoll":"10", "username": "Thor", "avatar":"..."},
+  {"email":"bruce.banner@marvel.com", "password":"anger", "bankRoll":"500", "username": "Hulk", "avatar":"..."},
+  {"email":"steve.rogers@marvel.com", "password":"shield", "bankRoll":"100", "username": "Captain America", "avatar":"..."},
+  {"email":"natasha@marvel.com", "password":"Наташа", "bankRoll":"200", "username": "Black Widow", "avatar":"..."}
+]

@@ -1,0 +1,7 @@
+[
+  {"name":"Ego",   "betSize":1},
+  {"name":"Earth", "betSize":2},
+  {"name":"Asgard", "betSize":5},
+  {"name":"Vormir", "betSize":20},
+  {"name":"Titan",  "betSize":100}
+]
